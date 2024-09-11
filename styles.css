@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Roboto', sans-serif;
+}
+
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+.invalid-feedback {
+  display: none;
+}
+
+.alert pre {
+  background-color: #e9ecef;
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
